@@ -1,6 +1,6 @@
 {
   "name": "fsm-libts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/fsm.js",
   "types": "dist/fsm.d.ts",
   "scripts": {
