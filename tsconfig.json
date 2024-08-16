@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Target latest ECMAScript version
+    "module": "ESNext", // Use ESNext or ES6 to use ES module syntax
+    "declaration": true, // Generate .d.ts files for TypeScript declarations
+    "outDir": "./dist", // Output directory for compiled files
+    "strict": true, // Enable strict type checking
+    "esModuleInterop": true, // Enable interoperability between CommonJS and ES Modules
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true // Disallow inconsistently-cased references
+  },
+  "include": ["src", "tests/fsm.test.ts"], // Include all .ts files in the src directory
+  "exclude": ["node_modules", "**/__tests__/*"] // Exclude node_modules and test files
+}
