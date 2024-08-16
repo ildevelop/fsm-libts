@@ -1,5 +1,8 @@
 # FSM Library
 
+[NPM](https://www.npmjs.com/package/fsm-libts)
+[GitHub](https://github.com/ildevelop/fsm-libts)
+
 ## Overview
 
 `fsm-libts` is a lightweight, TypeScript-based Finite State Machine (FSM) library designed to help manage state transitions in a predictable and maintainable way. It’s perfect for use in JavaScript or TypeScript projects, including React applications.
